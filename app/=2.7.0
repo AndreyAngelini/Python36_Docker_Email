@@ -1,0 +1,12 @@
+Collecting psycopg2
+  Downloading psycopg2-2.9.2.tar.gz (380 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Building wheels for collected packages: psycopg2
+  Building wheel for psycopg2 (setup.py): started
+  Building wheel for psycopg2 (setup.py): finished with status 'done'
+  Created wheel for psycopg2: filename=psycopg2-2.9.2-cp36-cp36m-linux_x86_64.whl size=439056 sha256=d6a7f5216be3f58dc1c49aee74a7304dbb839e7e50c4c6c43ba99cb0d101ed49
+  Stored in directory: /root/.cache/pip/wheels/cc/0e/26/11a20190a16b5c907dcc92678f878745c6d0fd65c2fa9c04fb
+Successfully built psycopg2
+Installing collected packages: psycopg2
+Successfully installed psycopg2-2.9.2

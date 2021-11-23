@@ -1,0 +1,8 @@
+Collecting redis
+  Downloading redis-4.0.2-py3-none-any.whl (119 kB)
+Collecting deprecated
+  Downloading Deprecated-1.2.13-py2.py3-none-any.whl (9.6 kB)
+Collecting wrapt<2,>=1.10
+  Downloading wrapt-1.13.3-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (78 kB)
+Installing collected packages: wrapt, deprecated, redis
+Successfully installed deprecated-1.2.13 redis-4.0.2 wrapt-1.13.3
